@@ -1,0 +1,60 @@
+vocabulary_id	vocabulary_name	vocabulary_reference	vocabulary_version	vocabulary_concept_id
+ICD10CM	International Classification of Diseases, Tenth Revision, Clinical Modification (NCHS)	https://www.cdc.gov/nchs/icd/icd-10-cm.htm	ICD10CM FY2025 code descriptions	44819098
+ICD9CM	International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 1 and 2 (NCHS)	http://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/codes.html	ICD9CM v32 master descriptions	5046
+Visit Type	OMOP Visit Type	OMOP generated		44819150
+Drug Type	OMOP Drug Exposure Type	OMOP generated		44819126
+Plan	OMOP Health Plan	OMOP generated		32471
+Procedure Type	OMOP Procedure Occurrence Type	OMOP generated		44819128
+ICD9Proc	International Classification of Diseases, Ninth Revision, Clinical Modification, Volume 3 (NCHS)	http://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/codes.html	ICD9CM v32 master descriptions	44819099
+LOINC	Logical Observation Identifiers Names and Codes (Regenstrief Institute)	http://loinc.org/downloads/loinc	LOINC 2.78	44819102
+NDC	National Drug Code (FDA and manufacturers)	http://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html, http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/UCM070838.zip	NDC 20250223	44819105
+SPL	Structured Product Labeling (FDA)	http://www.fda.gov/Drugs/InformationOnDrugs/ucm142438.htm	NDC 20250223	44819140
+US Census	Census regions of the United States (USCB)	https://www.census.gov/geo/maps-data/data/tiger-cart-boundary.html	US Census 2017 Release	32570
+Episode	OMOP Episode	OMOP generated	Episode 20201014	32523
+Metadata	OMOP Metadata	OMOP generated		32675
+Observation Type	OMOP Observation Type	OMOP generated		44819129
+Condition Type	OMOP Condition Occurrence Type	OMOP generated		44819127
+Meas Type	OMOP Measurement Type	OMOP generated		44819152
+Condition Status	OMOP Condition Status	OMOP generated		32887
+None	OMOP Standardized Vocabularies	OMOP generated	v5.0 27-FEB-25	44819096
+Currency	International Currency Symbol (ISO 4217)	http://www.iso.org/iso/home/standards/currency_codes.htm	2008	44819153
+Obs Period Type	OMOP Observation Period Type	OMOP generated		44819149
+Ethnicity	OMOP Ethnicity	OMOP generated		44819134
+Visit	OMOP Visit	OMOP generated	Visit 20211216	44819119
+CMS Place of Service	Place of Service Codes for Professional Claims (CMS)	http://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PhysicianFeeSched/downloads//Website_POS_database.pdf	2009-01-11	44819110
+Race	Race and Ethnicity Code Set (USBC)	http://www.cdc.gov/nchs/data/dvs/Race_Ethnicity_CodeSet.pdf	Version 1.0	44819109
+Cost Type	OMOP Cost Type	OMOP generated		5029
+Sponsor	OMOP Sponsor	OMOP generated		32472
+Plan Stop Reason	OMOP Plan Stop Reason	OMOP generated		32474
+Device Type	OMOP Device Type	OMOP generated		44819151
+SOPT	Source of Payment Typology (PHDSC)	https://www.nahdo.org/sopt	SOPT Version 9.2	32473
+UB04 Typ bill	UB04 Type of Bill - Institutional (USHIK)	https://ushik.ahrq.gov/ViewItemDetails?&system=apcd&itemKey=196987000		32044
+Gender	OMOP Gender	OMOP generated		44819108
+ATC	WHO Anatomic Therapeutic Chemical Classification	http://www.whocc.no/atc_ddd_index/	ATC 2024-12-29	44819117
+Cohort Type	OMOP Cohort Type	OMOP generated		44819234
+Death Type	OMOP Death Type	OMOP generated		44819135
+Note Type	OMOP Note Type	OMOP generated		44819146
+ABMS	Provider Specialty (American Board of Medical Specialties)	http://www.abms.org/member-boards/specialty-subspecialty-certificates	2018-06-26 ABMS	45756746
+Medicare Specialty	Medicare provider/supplier specialty codes (CMS)	http://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/MedicareProviderSupEnroll/Taxonomy.html	2018-06-26 Specialty	44819138
+Cost	OMOP Cost	OMOP generated		581457
+OSM	OpenStreetMap (OSMF)	https://www.openstreetmap.org/copyright/en, https://wambachers-osm.website/boundaries/	OSM Release 2019-02-21	32541
+UB04 Point of Origin	UB04 Claim Source Inpatient Admission Code (CMS)	https://www.resdac.org/cms-data/variables/Claim-Source-Inpatient-Admission-Code		32045
+UB04 Pt dis status	UB04 Patient Discharge Status Code (CMS)	https://www.resdac.org/cms-data/variables/patient-discharge-status-code		32047
+RxNorm Extension	OMOP RxNorm Extension	OMOP generated	RxNorm Extension 2024-12-15	252
+Korean Revenue Code	Korean Revenue Code (KNHIS)	OMOP generated		32724
+Revenue Code	UB04/CMS1450 Revenue Codes (CMS)	http://www.mpca.net/?page=ERC_finance	2010 Release	44819133
+UB04 Pri Typ of Adm	UB04 Claim Inpatient Admission Type Code (CMS)	https://www.resdac.org/cms-data/variables/Claim-Inpatient-Admission-Type-Code		32046
+Relationship	OMOP Relationship	OMOP generated		44819235
+NUCC	National Uniform Claim Committee Health Care Provider Taxonomy Code Set (NUCC)	http://www.nucc.org/index.php?option=com_content&view=article&id=107&Itemid=132	2018-06-26 NUCC	44819137
+Domain	OMOP Domain	OMOP generated		44819147
+CDM	OMOP Common DataModel	https://github.com/OHDSI/CommonDataModel	CDM v6.0.0	32485
+CPT4	Current Procedural Terminology version 4 (AMA)	http://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html	2024 Release	44819100
+Language	OMOP Language	OMOP generated	Language 20221030	33069
+RxNorm	RxNorm (NLM)	http://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html	RxNorm 20241202	44819104
+Type Concept	OMOP Type Concept	OMOP generated	Type Concept 20221030	32808
+Vocabulary	OMOP Vocabulary	OMOP generated		44819232
+Concept Class	OMOP Concept Class	OMOP generated		44819233
+UCUM	Unified Code for Units of Measure (Regenstrief Institute)	http://aurora.regenstrief.org/~ucum/ucum.html#section-Alphabetic-Index	Version 1.8.2	44819107
+SNOMED	Systematic Nomenclature of Medicine - Clinical Terms (IHTSDO)	http://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html	2024-08-01 SNOMED CT International Edition; 2024-09-01 SNOMED CT US Edition; 2024-09-25 SNOMED CT UK Edition	44819097
+HCPCS	Healthcare Common Procedure Coding System (CMS)	http://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html	20250101 Alpha Numeric HCPCS File	44819101
+OMOP Extension	OMOP Extension (OHDSI)	OMOP generated	OMOP Extension 20240716	32758
