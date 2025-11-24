@@ -1,7 +1,7 @@
 # isc-cloud-jdbc-sql-shell
 A simple way to connect, explore, and debug InterSytems Cloud Services over JDBC with [sqlLine](https://julianhyde.github.io/sqlline/)
 
-![alt text](image.png)
+![alt text](assets/logo.png)
 
 Works great with InterSystems OMOP!!!
 
@@ -46,23 +46,10 @@ docker run -it --rm \
 
 5. Execute run.sh to connect to your InterSystems Cloud Deployment
 
-![alt text](image.png)
+![connected](assets/connected.png)
 
 ## Use
-Exploration and logging...
+Show here doing federated queries across deployments.
 
-```
-
-```
-
-```
-CREATE schema OMOCDM54BAK;
-SELECT
-  'CREATE TABLE OMOPCDM54BAK.' || TABLE_NAME ||
-  ' AS SELECT * FROM OMOPCDM54.' || TABLE_NAME || ';' AS ddl
-FROM INFORMATION_SCHEMA.TABLES
-WHERE TABLE_SCHEMA = 'OMOPCDM54'
-  AND TABLE_TYPE = 'BASE TABLE'
-ORDER BY TABLE_NAME;
-```
+![multiple](assets/multiple.png)
 
